@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "260685892085",
+    "firebase_url": "https://momessenger-8191f.firebaseio.com",
+    "project_id": "momessenger-8191f",
+    "storage_bucket": "momessenger-8191f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260685892085:android:b037a93e1cf68afa",
+        "android_client_info": {
+          "package_name": "com.example.moman.myfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260685892085-hvvj3pe8ii33i4lvlmh1b6dis28smuvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moman.myfirstapp",
+            "certificate_hash": "07833367e236b4a53af3fd29a3a8ae71bd7791ea"
+          }
+        },
+        {
+          "client_id": "260685892085-qnd67hk55idpakgc3pn24ov8iej7qoe7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh432s352cSkMtwCnqLozpz5CjILb3EhY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260685892085-qnd67hk55idpakgc3pn24ov8iej7qoe7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
